@@ -1,2 +1,12 @@
-
-accelerate
+google-api-python-client==2.201.0
+pandas==2.2.3
+numpy==2.1.3
+scikit-learn==1.6.1
+# Peringatan: Sastrawi belum diinstal di sesi ini.
+nltk==3.9.1
+transformers==5.18.0
+peft==0.21.1
+accelerate==1.15.0
+torch==2.11.0+cpu
+joblib==1.6.0
+torchao==0.10.0
